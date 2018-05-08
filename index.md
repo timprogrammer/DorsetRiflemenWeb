@@ -9,8 +9,8 @@ introduction: |
 actions:
   - label: "Latest Scores"
     icon: stackoverflow
-    url: "/scores"
+    url: "https://timprogrammer.github.io/DorsetRiflemenWeb/scores.html"
   - label: "Aggregate"
     icon: calendar
-    url: "/aggregate"
+    url: "https://timprogrammer.github.io/DorsetRiflemenWeb/aggregate.html"
 ---
