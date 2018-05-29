@@ -18,7 +18,7 @@ title: The Dorset Riflemen
 email: sec@thedorsetriflemen.co.uk
 description: The Dorset Riflemen
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://thedorsetriflemen.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Tim Pope
   twitter:
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
 plugins_dir: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
