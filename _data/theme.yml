@@ -35,5 +35,7 @@ google_fonts:
 
 navigation_pages:
   - scores.md
+  - dates.md
   - aggregate.md
+
 
