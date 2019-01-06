@@ -30,6 +30,7 @@ A new trophy for the 300 and 600 yard annual trophy
 ## Don Stacey Memorial Trophy (FOPEN)
 
 The trophy had first been used for an East Holme Competition originated from Don, the woodwork made by Ray. After Don's death it was changed to be his Memorial Trophy for the best overall performance from eight shoots. It                                           has now been only for F Class Open results.
+
 <img src="/assets/images/don_stacey.jpg" class="align-center" alt="">
 ## Rob Gray Trophy (FTR)
 
