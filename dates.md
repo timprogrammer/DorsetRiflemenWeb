@@ -13,7 +13,7 @@ These count towards the yearly aggregate
 | 24-02-2019 | Stickledown | 1000 x2       | Morning only | 5           |     DONE      |
 | 24-03-2019 | Century     | 600, 1000     | All day      | 4/3         |     DONE      |
 | 21-04-2019 | Stickledown | 900, 1000     | All day      | 4           |     DONE      |
-| 26-05-2019 | Century     | 300, 600      | All day      | 4           |   CONFIRMED   |
+| 19-05-2019 | Century     | 300, 600      | All day      | 4           |   CONFIRMED   |
 | 30-06-2019 | Stickledown | 600, 1000     | All day      | 4           |   CONFIRMED   |
 | 28-07-2019 | Century     | 500, 600      | All day      | 4           |   CONFIRMED   |
 | 25-08-2019 | Stickledown | 1000, 600     | All day      | 4           |   CONFIRMED   |
