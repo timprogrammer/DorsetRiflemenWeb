@@ -1,5 +1,5 @@
 ---
-title: "Dates for 2019"
+title: "Dates for 2020"
 layout: page
 ---
 
@@ -9,18 +9,17 @@ These count towards the yearly aggregate
 
 | Date       | Range       | Distance      |   Event      |   Targets   |   Status        |
 |:----------:|:-----------:|:-------------:|:------------:|:-----------:|:---------------:|
-| 27-01-2019 | Century     | 600 x2        | Morning only | 6           |     DONE      |
-| 24-02-2019 | Stickledown | 1000 x2       | Morning only | 5           |     DONE      |
-| 24-03-2019 | Century     | 600, 1000     | All day      | 4/3         |     DONE      |
-| 21-04-2019 | Stickledown | 900, 1000     | All day      | 4           |     DONE      |
-| 19-05-2019 | Century     | 300, 600      | All day      | 4           |   CONFIRMED   |
-| 30-06-2019 | Stickledown | 600, 1000     | All day      | 4           |   CONFIRMED   |
-| 28-07-2019 | Century     | 500, 600      | All day      | 4           |   CONFIRMED   |
-| 25-08-2019 | Stickledown | 1000, 600     | All day      | 4           |   CONFIRMED   |
-| 29-09-2019 | Century     | 300, 600      | All day      | 3           |   CONFIRMED   |
-| 27-10-2019 | Stickledown | 900, 1000     | All day      | 5           |   CONFIRMED   |
-| 25-11-2019 | Stickledown | 900, 1000     | All day *T*  | 5           |   CONFIRMED   |
-| 08-12-2019 | Century     | 300, 600      | All day *T*  | 5           |   CONFIRMED   |
+| 26-01-2020 | Century     | 600 x2        | Morning only | 6           |   CONFIRMED   |
+| 23-02-2020 | Stickledown | 1000 x2       | Morning only | 6           |   CONFIRMED   |
+| 22-03-2020 | Century     | 300, 600      | All day      | 4           |   CONFIRMED   |
+| 19-04-2020 | Stickledown | 1000, 1000    | All day      | 4           |   CONFIRMED   |
+| 31-05-2020 | Cent/Stick  | 1000, 600     | All day      | 4           |   CONFIRMED   |
+| 28-06-2020 | Stickledown | 1000, 1000    | All day      | 4           |   APPLIED     |
+| 30-08-2020 | Century     | 300, 600      | All day      | 4           |   APPLIED     |
+| 27-09-2020 | Stickledown | 1000, 1000    | All day      | 4           |   APPLIED     |
+| 25-10-2020 | Century     | 900, 1000     | All day      | 4           |   APPLIED     |
+| 29-11-2020 | Stickledown | 1000          | Morning only | 6           |   APPLIED     |
+| 06-12-2020 | Century     | 300, 600      | All day      | 5           |   APPLIED     |
 
 *T* = These 2 events are also individual trophy events
 
@@ -28,17 +27,17 @@ These count towards the yearly aggregate
 
 | Date       | Range        | Distance      |   Event                 |   Targets   |   Status        |
 |:----------:|:------------:|:-------------:|:-----------------------:|:-----------:|:---------------:|
-| 13-01-2019 | Moody's      | 300           | **Morning only**        | 3           | CANCELLED       |
-| 10-02-2019 | Century      | 300, 600      | All day                 | 1           | DONE            |
-| 10-03-2019 | Century      | 300, 600      | All day                 | 3           | CANCELLED       |
-| 14-04-2019 | Century      | 300, 600      | All day                 | 2           |   CONFIRMED     |
-| 15-05-2019 | Piddlehinton | 100           | PM Only  *BG*           | -           |   CONFIRMED     |
-| 09-06-2019 | Century      | 300, 600      | All day                 | 2           |   CONFIRMED     |
-| 17-07-2019 | Piddlehinton | 100           | PM Only                 | -           |   CONFIRMED     |
-| 08-09-2019 | Century      | 300, 200      | All day  *AG*           | -           |   CONFIRMED     |
-| 11-09-2019 | Piddlehinton | 100           | PM Only                 | -           |   CONFIRMED     |
-| 13-10-2019 | Century      | 300, 600      | All day                 | 2           |   CONFIRMED     |
-
+| 05-01-2020 | Century      | 300, 600      | All day                 | 2           | CONFIRMED       |
+| 12-02-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
+| 08-03-2020 | Century      | 300, 600      | All day                 | 2           | CONFIRMED       |
+| 15-04-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
+| 10-05-2020 | Century      | 300, 600      | All day                 | 2           |   APPLIED       |
+| 17-06-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
+| 15-07-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
+| 16-08-2020 | Century      | ???, ???      | All day                 | 2           |                 |
+| 16-09-2020 | Piddlehinton | 100           | PM Only                 | 5           |   APPLIED       |
+| 11-10-2020 | Century      | 300, 600      | All day                 | 2           |                 |
+| 11-11-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
 
 *BG* = This is a 'Best Group' competition
 
@@ -60,9 +59,11 @@ Enter the Trading estate and follow the road round to the right, up the hill, pa
 ___
 
 Bisley start time is at around 8:00am. Shooting commences 8.30am. 
-Bisley Competition shoots will be squadded a week before the event.
-
-All competition dates are at the end of the month except March to avoid BST change and April when Junction 3 of the M3 is closed on the 28th
+Competitions will be squadded “blind”.  You will still have to advise Steve of your intention to shoot approximately 7-10 days in advance as you do now. This is to allow the correct ordering of targets and markers. No squadding will be issued in advance. FTR and FO will shoot 1st/2nd on alternate months as now and FTR and FO will shoot paired and grouped together as now.
+ 
+The arrangement will be that you will collect enveloped score cards from Steve as you pay your range fee,  The cards you receive will give your target position and a left or right firing point. Thus a card marked Detail 1 target 1 right hand point will be the first target on the the left and you will occupy the right hand side of the point.  The squadding will then repeat in the same positions after all firers have shot once.
+ 
+The envelopes will be marked FTR or FO and I will have the correct number for the number of people who have booked to shoot.  The respective envelopes will have been well shuffled so consecutive envelopes might or might not contain adjacent firing positions.  Please do not swap cards about so that you shoot with your mate!
 
 There should hopefully not be any conflicts with the F-Class league dates
 
