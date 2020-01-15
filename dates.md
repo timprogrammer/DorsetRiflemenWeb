@@ -9,17 +9,19 @@ These count towards the yearly aggregate
 
 | Date       | Range       | Distance      |   Event      |   Targets   |   Status        |
 |:----------:|:-----------:|:-------------:|:------------:|:-----------:|:---------------:|
-| 26-01-2020 | Century     | 600 x2        | Morning only | 6           |   CONFIRMED   |
+| 26-01-2020 | Century     | 600 x2        | Morning only | 8           |   CONFIRMED   |
 | 23-02-2020 | Stickledown | 1000 x2       | Morning only | 6           |   CONFIRMED   |
 | 22-03-2020 | Century     | 300, 600      | All day      | 4           |   CONFIRMED   |
 | 19-04-2020 | Stickledown | 1000, 1000    | All day      | 4           |   CONFIRMED   |
 | 31-05-2020 | Cent/Stick  | 1000, 600     | All day      | 4           |   CONFIRMED   |
-| 28-06-2020 | Stickledown | 1000, 1000    | All day      | 4           |   APPLIED     |
-| 30-08-2020 | Century     | 300, 600      | All day      | 4           |   APPLIED     |
-| 27-09-2020 | Stickledown | 1000, 1000    | All day      | 4           |   APPLIED     |
-| 25-10-2020 | Century     | 900, 1000     | All day      | 4           |   APPLIED     |
-| 29-11-2020 | Stickledown | 1000          | Morning only | 6           |   APPLIED     |
-| 06-12-2020 | Century     | 300, 600      | All day      | 5           |   APPLIED     |
+| 28-06-2020 | Stickledown | 1000, 1000    | All day      | 4           |   CONFIRMED   |
+| 30-08-2020 | Cent/Stick  | 1000, 600     | All day      | 4           |   CONFIRMED   |
+| 27-09-2020 | Stickledown | 1000, 1000    | All day      | 4           |   CONFIRMED   |
+| 25-10-2020 | Cent/Stick  | 1000, 600     | All day      | 4           |   CONFIRMED   |
+| 29-11-2020 | Stickledown | 1000          | Morning only | 5           |   CONFIRMED   |
+| **05-12-2020** | Century | 300, 600      | All day      | 5           |   CONFIRMED   |
+
+**NB 5th December is a Saturday**
 
 *T* = These 2 events are also individual trophy events
 
@@ -28,16 +30,16 @@ These count towards the yearly aggregate
 | Date       | Range        | Distance      |   Event                 |   Targets   |   Status        |
 |:----------:|:------------:|:-------------:|:-----------------------:|:-----------:|:---------------:|
 | 05-01-2020 | Century      | 300, 600      | All day                 | 2           | CONFIRMED       |
-| 12-02-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
+| TBA 			| Piddlehinton | 100           | PM Only                 | 5           |     TBA            |
 | 08-03-2020 | Century      | 300, 600      | All day                 | 2           | CONFIRMED       |
-| 15-04-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
-| 10-05-2020 | Century      | 300, 600      | All day                 | 2           |   APPLIED       |
-| 17-06-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
-| 15-07-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
-| 16-08-2020 | Century      | ???, ???      | All day                 | 2           |                 |
-| 16-09-2020 | Piddlehinton | 100           | PM Only                 | 5           |   APPLIED       |
-| 11-10-2020 | Century      | 300, 600      | All day                 | 2           |                 |
-| 11-11-2020 | Piddlehinton | 100           | PM Only                 | 5           |                 |
+| TBA 			| Piddlehinton | 100           | PM Only                 | 5           |     TBA            |
+| 10-05-2020 | Century      | 300, 600      | All day                 | 2           |   CONFIRMED       |
+| TBA 			| Piddlehinton | 100           | PM Only                 | 5           |     TBA            |
+| TBA 			| Piddlehinton | 100           | PM Only                 | 5           |    TBA             |
+| 16-08-2020 | Century      | ???, ???      | All day                 | 2           |    TBA          |
+| TBA			| Piddlehinton | 100           | PM Only                 | 5           |    TBA     |
+| 11-10-2020 | Century      | 300, 600      | All day                 | 2           | CONFIRMED |
+| TBA 			| Piddlehinton | 100           | PM Only                 | 5           |     TBA            |
 
 *BG* = This is a 'Best Group' competition
 
